@@ -1,0 +1,11 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="3">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="12039" startPos="1015" endPos="1015" selMode="0" lang="Javascript" encoding="-1" filename="C:\Bitnami\wampstack-5.6.20-0\apps\wordpress\htdocs\wp-content\plugins\DXFView\js\Objectify.js" backupFilePath="" originalFileLastModifTimestamp="1475764161" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="439632" startPos="439" endPos="439" selMode="0" lang="PHP" encoding="-1" filename="C:\Bitnami\wampstack-5.6.20-0\apps\wordpress\htdocs\wp-content\plugins\DXFView\DXFView.php" backupFilePath="" originalFileLastModifTimestamp="1476110072" />
+            <File firstVisibleLine="91" xOffset="0" scrollWidth="263176" startPos="2949" endPos="2959" selMode="0" lang="Javascript" encoding="-1" filename="C:\Bitnami\wampstack-5.6.20-0\apps\wordpress\htdocs\wp-content\plugins\DXFView\js\script.js" backupFilePath="" originalFileLastModifTimestamp="1475935625" />
+            <File firstVisibleLine="57" xOffset="0" scrollWidth="1336" startPos="2532" endPos="2532" selMode="0" lang="PHP" encoding="-1" filename="C:\Bitnami\wampstack-5.6.20-0\apps\wordpress\htdocs\wp-content\plugins\DXFView\settings\DXFViewSettings.php" backupFilePath="" originalFileLastModifTimestamp="1476110080" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
